@@ -2,16 +2,16 @@ $(document).ready(function(){
   
  var carouselImages = [
      {
-         image_url: './kanaphotos/kanahomepage.png'
+         image_url: 'https://i.imgur.com/Xxg14Oc.png'
      },
    {
-     image_url: './kanaphotos/kanadashboard.png',
+     image_url: 'https://i.imgur.com/iCCYuti.png',
    },
    {
-     image_url: './kanaphotos/dietary.png',
+     image_url: 'https://i.imgur.com/XCl8UFW.png',
    },
    {
-     image_url: './kanaphotos/mealtype.png',
+     image_url: 'https://i.imgur.com/PGoPvue.png',
    },
    {
      image_url: './kanaphotos/swipingcap.gif',
